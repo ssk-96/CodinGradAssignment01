@@ -1,0 +1,12 @@
+Sorry but i accidentally pushed the sample7.txt file into master branch instead of this directory
+so making another sample7 and trying to push it into master>RockingDude
+hope it will work
+
+and yeah to change the author
+the commands are as follows
+git config --global user.name "rds"
+git config --global user.email "rds@rockingdude.com"
+
+
+thanking you RDS
+dont be numb
