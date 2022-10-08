@@ -1,0 +1,9 @@
+Hi this is a sample file 06
+Creating due to an assignment
+Created five files previous to this and the author is root user
+changed to rds <rds@rockingdude.com>
+using git config --global user.name"rds"
+and   git config --golabl user.email"rds@rockingdude.com"
+hope to see the changes here
+thanking you
+
